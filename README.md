@@ -161,15 +161,13 @@
   
 2 - Unzip the folder.
 
-3 - Launch "Setup.bat" or "Setup.py".
-
 ## Or
 
 1 - Open a terminal.
 
-2 - Run "git clone https://github.com/loxy0dev/ZeroTrace-Tools.git"
+2 - Run "`git clone https://github.com/Blackeige/ZeroTrace-Tools.git`"
 
-3 - cd into the folder
+3 - cd into the folder "`cd ZeroTrace-Tools`" (if do with `git`)
 
-4 - Run "python ZeroTrace.py"
+4 - Run "`python ZeroTrace.py`"
 
