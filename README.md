@@ -1,20 +1,17 @@
-<img align="center" src="Img/ZeroTrace-Banner.png" width="100%"> 
+<img align="center" src="ZeroTrace-Logo.png" width="100%"> 
 
 <h1 align="center">ZeroTrace - Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/zerotracesupport">Telegram</a> ・ <a href="https://zerotrace.tools">Website</a> ・ <a href="https://www.trustpilot.com/review/zerotrace.tools">Reviews</a>
+ <a href="https://zerotrace.tools">Website</a> ・ <a href="https://www.trustpilot.com/review/zerotrace.tools">Reviews</a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/loxy0dev/ZeroTrace-Tools?label=Version&color=005eff">
-  <img src="https://img.shields.io/github/stars/loxy0dev/ZeroTrace-Tools?style=flat&label=Stars&color=005eff">
-  <img src="https://img.shields.io/github/repo-size/loxy0dev/ZeroTrace-Tools?label=Size&color=005eff">
-  <img src="https://img.shields.io/github/languages/top/loxy0dev/ZeroTrace-Tools?color=005eff">
 </p>
 
 <p>
-  - Developed in <strong>Python</strong>, by <a href="https://zerotrace.tools/loxy0dev">Loxy0dev</a><br>
+  - Developed in <strong>Python</strong>, by <a href="https://github.com/Blackeige">Blackeige</a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
