@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/loxy0dev/ZeroTrace-Tools?label=Version&color=005eff">
+  <img src="https://github.com/Blackeige/ZeroTrace-Tools/blob/main/ZeroTrace-1.png?raw=true">
 </p>
 
 <p>
@@ -172,3 +172,4 @@
 3 - cd into the folder
 
 4 - Run "python Setup.py"
+
