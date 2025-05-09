@@ -25,9 +25,7 @@
 
 <p align="center">
   <img src="Img/ZeroTrace-1.png" width="49%"> 
-  <img src="Img/ZeroTrace-2.png" width="49%"> 
-  <img src="Img/ZeroTrace-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
+  
 </p>
 
 <p>
