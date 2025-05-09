@@ -171,5 +171,5 @@
 
 3 - cd into the folder
 
-4 - Run "python Setup.py"
+4 - Run "python ZeroTrace.py"
 
